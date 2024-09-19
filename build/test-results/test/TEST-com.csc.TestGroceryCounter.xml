@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestGroceryCounter" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-09-19T18:33:17" hostname="Akshats-MacBook-Air.local" time="0.047">
+  <properties/>
+  <testcase name="testClear()" classname="com.csc.TestGroceryCounter" time="0.024"/>
+  <testcase name="testIncrementHundredths()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="testInitialTotal()" classname="com.csc.TestGroceryCounter" time="0.003"/>
+  <testcase name="testOverflow()" classname="com.csc.TestGroceryCounter" time="0.003"/>
+  <testcase name="testIncrementOnes()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="testIncrementTens()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
